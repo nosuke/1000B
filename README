@@ -1,0 +1,33 @@
+*******************
+*** GÉNÉRALITÉS ***
+*******************
+
+Projet : 1000 bornes.
+Organisation : Université de Technologie de Troyes (UTT).
+
+Description : Logiciel permettant de jouer au 1000 bornes.
+
+Début du développement : 27/09/2012.
+Fin du développement : 13/01/2013.
+
+Contact :
+- florent.lucet@utt.fr.
+- julie.romero@utt.fr
+
+Mainteneurs principaux :
+- Florent LUCET (ISI1).
+- Julie ROMERO (ISI1).
+
+
+
+***************
+*** DÉTAILS ***
+***************
+
+bin : fichiers binaires exécutables de l'application.
+
+dist : fichier .jar exécutable de l'application.
+
+javadoc : javadoc de l'application.
+
+src : fichiers sources de l'application.
